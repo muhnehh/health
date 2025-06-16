@@ -1,0 +1,11 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.12",
+    "openai>=1.87.0",
+    "pydantic>=2.11.7",
+    "uvicorn>=0.34.3",
+]

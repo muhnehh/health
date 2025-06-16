@@ -1,0 +1,72 @@
+🏠 Landing Page Structure & Content
+🧭 Hero Section: "Get Care, Not Confusion."
+Headline:
+Skip the 3-hour clinic wait. Shifti+ finds you the right care, right now.
+
+Subheading:
+Tell us what’s wrong and where you are — we’ll find the nearest clinic, estimate your wait, and tell you when to leave. All in Arabic or English.
+
+CTA Button:
+🔍 Check Now — It’s Free
+
+🩺 Problem Section: The Hidden Crisis in UAE Healthcare Access
+In Ajman, Sharjah, and across the UAE, families waste hours every weekend trying to get seen.
+Clinics are overbooked. Wait times are unpredictable. You don’t know which clinics accept your insurance, or how long you’ll wait.
+So we rush. We wait. We guess.
+And it costs us more than just time.
+
+Pain Points List (with icons):
+
+❌ 3–4 hour waits even for mild symptoms
+
+❌ No real-time visibility into clinic traffic
+
+❌ No centralized booking or triage
+
+❌ Uncertainty for parents, seniors, workers
+
+❌ Lost income from missed work hours
+
+⚙️ How Shifti+ Works
+Step 1: Tell us what’s wrong
+Describe your symptoms in plain language. Use voice if you prefer.
+
+Step 2: Get instant triage + recommendations
+We analyze your urgency and location, and show the best 2–3 clinics near you.
+
+Step 3: Know when and where to go
+Get accurate travel time, wait time, and “leave now” alerts — with directions and shareable WhatsApp links.
+
+Step 4: Check in virtually (coming soon)
+Soon, you’ll be able to queue remotely — so you wait at home, not on a hard plastic chair.
+
+💬 What People Say
+“It felt like magic. I typed ‘My son has a fever’ and in 5 seconds I had a plan. I didn’t even have to call the clinic.”
+— Aisha, working mom in Sharjah
+
+“Usually I lose half a day just trying to find the right clinic. This saved me hours.”
+— Rajesh, electrician, Dubai
+
+“I wish this existed years ago.”
+— Sara, caregiver for elderly parents
+
+🌍 Why Shifti+ is Built for the UAE
+🇦🇪 Fully supports Arabic and English
+
+🧕 Inclusive UX for parents, workers, elderly
+
+🏥 Works across public + private clinics
+
+📱 Mobile-first, voice-enabled
+
+🔒 No logins, no data collection — your privacy is respected
+
+📊 For Clinics & Governments
+Want to reduce congestion, improve patient experience, and increase utilization?
+We partner with clinics, insurers, and smart city programs.
+
+👉 [Partner with us] — Let’s transform health access together.
+
+🔗 Call to Action (Sticky Footer)
+Don’t wait 3 hours for care. Try Shifti+ now.
+🩺 [Get Started] | 🌐 [العربية]

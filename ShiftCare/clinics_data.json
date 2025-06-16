@@ -1,0 +1,82 @@
+{
+  "clinics": [
+    {
+      "name": "Al Noor Clinic",
+      "address": "Ajman Corniche",
+      "phone": "+971-6-742-8888",
+      "coordinates": {
+        "lat": 25.4052,
+        "lon": 55.5136
+      },
+      "typical_wait_minutes": 25,
+      "specialties": ["General Medicine", "Pediatrics", "Emergency"],
+      "insurance_accepted": ["ADNIC", "Oman Insurance", "Dubai Insurance"],
+      "languages": ["Arabic", "English", "Urdu"]
+    },
+    {
+      "name": "Aaliya Medical Centre",
+      "address": "Al Bustan, Ajman",
+      "phone": "+971-6-748-9999",
+      "coordinates": {
+        "lat": 25.4105,
+        "lon": 55.5089
+      },
+      "typical_wait_minutes": 20,
+      "specialties": ["Family Medicine", "Internal Medicine", "Gynecology"],
+      "insurance_accepted": ["ADNIC", "Emirates Insurance", "AXA"],
+      "languages": ["Arabic", "English", "Hindi"]
+    },
+    {
+      "name": "City Medical Centre Ajman",
+      "address": "Al Bustan, Ajman",
+      "phone": "+971-6-743-5555",
+      "coordinates": {
+        "lat": 25.4089,
+        "lon": 55.5123
+      },
+      "typical_wait_minutes": 30,
+      "specialties": ["General Practice", "Dermatology", "Orthopedics"],
+      "insurance_accepted": ["ADNIC", "National Health Insurance", "Oman Insurance"],
+      "languages": ["Arabic", "English", "Malayalam"]
+    },
+    {
+      "name": "Al Rahmah Medical Clinic",
+      "address": "Al Rumailah, Ajman",
+      "phone": "+971-6-745-7777",
+      "coordinates": {
+        "lat": 25.3978,
+        "lon": 55.5067
+      },
+      "typical_wait_minutes": 15,
+      "specialties": ["Family Medicine", "Pediatrics", "Vaccination"],
+      "insurance_accepted": ["ADNIC", "Dubai Insurance", "AXA"],
+      "languages": ["Arabic", "English", "Bengali"]
+    },
+    {
+      "name": "Amina Hospital",
+      "address": "Premier Hospital, Al Bustan, Ajman",
+      "phone": "+971-6-740-0000",
+      "coordinates": {
+        "lat": 25.4125,
+        "lon": 55.5145
+      },
+      "typical_wait_minutes": 35,
+      "specialties": ["Emergency", "Surgery", "Cardiology", "Full Departments"],
+      "insurance_accepted": ["All Major Insurance", "ADNIC", "Emirates Insurance"],
+      "languages": ["Arabic", "English", "Urdu", "Hindi"]
+    },
+    {
+      "name": "Saudi German Hospital Ajman",
+      "address": "Al Ittihad Road, Ajman",
+      "phone": "+971-6-748-0000",
+      "coordinates": {
+        "lat": 25.4001,
+        "lon": 55.5201
+      },
+      "typical_wait_minutes": 40,
+      "specialties": ["Multi-specialty", "OPD", "Home Care", "Surgery"],
+      "insurance_accepted": ["All Major Insurance", "International Coverage"],
+      "languages": ["Arabic", "English", "German", "Hindi"]
+    }
+  ]
+}

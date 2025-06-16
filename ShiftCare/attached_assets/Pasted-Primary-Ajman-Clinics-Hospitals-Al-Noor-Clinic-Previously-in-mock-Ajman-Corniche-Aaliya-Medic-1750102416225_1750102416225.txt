@@ -1,0 +1,127 @@
+Primary Ajman Clinics & Hospitals
+Al Noor Clinic
+(Previously in mock) — Ajman Corniche
+
+Aaliya Medical Centre – Al Bustan 
+atninfo.com
++1
+m.edarabia.com
++1
+
+Abu Bakr A Omer Clinic – Al Nakheel 
+atninfo.com
++1
+careplusmedicals.com
++1
+
+Ajman Medical Centre – New Industrial Area 
+atninfo.com
+
+Al Basma Medical Center – Behind Hamdan Centre 
+m.edarabia.com
++3
+atninfo.com
++3
+lifelineclinicajman.com
++3
+
+Al Ihsan Medical Complex – Al Nakheel 
+righthealth.ae
++9
+atninfo.com
++9
+m.edarabia.com
++9
+
+Al Jazeera Clinic – Opposite Ajman Municipality 
+ajman.ae
++3
+atninfo.com
++3
+thumbayclinic.com
++3
+
+Al Rahmah Medical Clinic – Al Rumailah 
+en.wikipedia.org
++2
+atninfo.com
++2
+m.edarabia.com
++2
+
+Al Razi Medical Centre – Al Nuaimiya 
+en.wikipedia.org
++3
+atninfo.com
++3
+en.wikipedia.org
++3
+
+Al Shifa Medical Centre – Al Ittihad Road 
+jabalsinamedicalcentre.com
++5
+atninfo.com
++5
+m.edarabia.com
++5
+
+Al Shrooq Clinic – Karama Plaza Building 
+nmc.ae
++12
+atninfo.com
++12
+m.edarabia.com
++12
+
+Al Zawra Medical Centre – Al Ittihad Road 
+atninfo.com
+
+City Medical Centre Ajman – Al Bustan 
+en.wikipedia.org
++14
+atninfo.com
++14
+jabalsinamedicalcentre.com
++14
+
+🏨 Major Hospitals & Medical Centres
+Amina Hospital – Premier private hospital offering full departments + emergency care 
+aminahospital.ae
+
+Saudi German Hospital, Ajman – OPD + home-care services, multi-specialty 
+en.wikipedia.org
++6
+saudigerman.com
++6
+en.wikipedia.org
++6
+
+Thumbay Hospital, Nuaimiya & Al Jurf – JCI-accredited, teaching hospital, multi-branch in Ajman 
+atninfo.com
++7
+thumbayhospital.com
++7
+en.wikipedia.org
++7
+
+NMC Medical Centre, Ajman – Heart of city, accessible and insured 
+nmc.ae
+
+Shikh Khalifa Specialty General Hospital – Government-run 
+elajmedicalcentre.ae
++15
+en.wikipedia.org
++15
+ajman.ae
++15
+
+Ajman Specialty General Hospital – Full general hospital services 
+saudigerman.com
++12
+m.edarabia.com
++12
+ehs.gov.ae
++12
+
+🎯 How You Can Use This:
+MVP Mock Data: Seed your Replit backend with 5–8 clinics (e.g., Aaliya, Al Noor, Al Rahmah, City Medical Centre, Amina Hospital).
