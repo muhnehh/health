@@ -1,5 +1,6 @@
 # 🩺 Shifti+  
 ### *“Because your weekend wasn’t made for 3-hour clinic waits.”*
+![image](https://github.com/user-attachments/assets/c010bed4-7d7c-4a40-80a7-af3dfe7355ae)
 
 ---
 
@@ -33,6 +34,8 @@ And because the **moment before a panic** is when you most need **clarity**.
 ---
 
 ## 🛠️ What it does (MVP)
+![image](https://github.com/user-attachments/assets/28a91425-a2c9-4ab1-b57c-a7c92d238e09)
+
 
 🗣️ You type or say something like:  
 > _“My son has a fever and I’m in Al Nahda.”_
@@ -50,6 +53,7 @@ Then we:
 - Let you share the plan via WhatsApp  
 - Work in **Arabic or English**  
 - Even support **voice input** (Web Speech API)
+![image](https://github.com/user-attachments/assets/b8da971f-2ad8-44e8-bbe9-0b8e6ae36244)
 
 ---
 
