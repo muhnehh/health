@@ -1,98 +1,108 @@
-🩺 Shifti+
-“Because your weekend wasn’t made for 3-hour clinic waits.”
-👋 What is this?
-Shifti+ is your AI-powered clinic compass for the UAE.
-It listens when you say “my daughter has a fever” and answers with:
+# 🩺 Shifti+  
+### *“Because your weekend wasn’t made for 3-hour clinic waits.”*
 
-🏥 A nearby clinic that’s actually open
+---
 
-⏱️ A wait time that won’t age you
+## 👋 What is this?
 
-🗺️ Directions based on traffic
+**Shifti+** is your **AI-powered clinic compass** for the UAE.  
+It listens when you say:  
+> _“My daughter has a fever and I’m in Al Nahda.”_
 
-📲 A WhatsApp message to send your spouse
+And it answers with:
 
-🧠 Calm in the chaos
+- 🏥 A clinic that’s actually open  
+- ⏱️ A wait time that won’t age you  
+- 🗺️ Directions that consider traffic  
+- 📲 A WhatsApp message you can send your spouse  
+- 🧠 Calm, in the chaos  
 
-Built for moms, workers, aunties, abayas, and anyone who’s ever sat in a plastic chair wondering if they made the right choice.
+Built for moms, workers, abayas, teens, aunties, tatas — basically, anyone who's ever sat in a plastic chair wondering:  
+> _“Did we pick the wrong clinic… again?”_
 
-🚨 Why we built this
-Because healthcare is hard.
-Because we’ve all Googled “clinic near me” only to end up in the wrong part of town.
-Because triage-by-guesswork isn’t a strategy.
+---
 
-And mostly — because the moment before a medical panic is when you most need clarity.
+## 🚨 Why we built this
 
-🛠️ What it does (MVP)
-🗣️ Take a natural language input like:
+Because healthcare isn’t broken — it’s **blind**.  
+Because “just Google it” doesn’t work when your kid’s crying.  
+Because **triage-by-guesswork** isn’t a strategy.
 
-“My son has a fever and I’m in Al Nahda.”
+And because the **moment before a panic** is when you most need **clarity**.
 
-🧠 We use an LLM to extract:
+---
 
-Symptom
+## 🛠️ What it does (MVP)
 
-Urgency
+🗣️ You type or say something like:  
+> _“My son has a fever and I’m in Al Nahda.”_
 
-Location
+We use AI to extract:
+- Symptom  
+- Urgency  
+- Location  
 
-📍 Then:
+Then we:
+- Find the best 2–3 clinics nearby (mocked for now)  
+- Estimate ETA using live traffic (Azure Maps)  
+- Display wait times, accepted insurance  
+- Recommend the best one  
+- Let you share the plan via WhatsApp  
+- Work in **Arabic or English**  
+- Even support **voice input** (Web Speech API)
 
-Find 2–3 mock clinics nearby
+---
 
-Show ETA based on traffic
+## 💡 Built with
 
-Estimate wait times
+- **Python + FastAPI** — backend brain  
+- **OpenRouter API / GPT** — NLP triage logic  
+- **Azure Maps** — traffic & distance  
+- **HTML / CSS / Vanilla JS** — frontend UI  
+- **Web Speech API** — for voice commands  
+- **Aroma of karak, midnight panic, and love**
 
-Recommend when to leave
+---
 
-Let you share plan via WhatsApp
+## 🌍 Who it’s for
 
-📱 Works in Arabic or English. With voice input, if typing hurts.
+- 👩‍👦 Working moms with one bar left on their patience  
+- 👷 Expats with no insurance  
+- 👴 Elders who don’t need more waiting  
+- 👩‍⚕️ Clinics that want fewer 3-hour walk-ins
 
-💡 Built with:
-Python + FastAPI (backend magic)
+---
 
-HTML + JS (light frontend)
+## 🧪 What’s next?
 
-Azure Maps (traffic + distance)
+- Real API integration with clinics & booking platforms  
+- Crowd-sourced wait time updates  
+- Appointment reminders + “leave now” alerts  
+- Expansion to pharmacies, labs, and public hospitals  
+- Dark mode (because your child is asleep and so is the clinic)
 
-OpenRouter/HuggingFace GPT (symptom triage)
+---
 
-Web Speech API (voice input)
+## ❤️ Final note
 
-Caffeine, compassion, and 1 good playlist
+This isn’t a “nice-to-have.”  
+This is a **why-doesn’t-this-already-exist?**
 
-🌍 Who it’s for
-👩‍👦 Working parents with one bar left on their sanity meter
+We didn’t build this for judges.  
+We built it for **that parent at 3PM on a Friday** trying to do the right thing.
 
-👷 Expats without insurance
+If this helps just one person skip a waiting room —  
+**we’ve already won.**
 
-👴 Elderly who don’t need more waiting
+---
 
-👩‍⚕️ Clinics that wish people showed up at the right time, not all at once
+## 📬 Talk to us
 
-🧪 What’s Next?
-Real API connections to clinics
+We’re probably debugging or testing Arabic voice commands in a food court.  
+But hey, ping us anyway:  
+- 📧 `human@shifti.ai`  
+- 🐦 [@shifti_health](https://twitter.com/shifti_health)
 
-Real-time crowdsource check-ins
+---
 
-Bookings + queue ticketing
-
-Expansion to pharmacies, labs, and gov health centers
-
-❤️ Final note
-This isn’t a “nice-to-have.” It’s a why-didn’t-this-exist-before.
-We didn’t build for judges.
-We built for that mom at 3PM on a Friday, looking for help.
-
-And if this helps even one person skip the chaos and get care faster —
-We’ve already won.
-
-📬 Want to reach us?
-We’re probably fixing a bug or testing Arabic voice input in a loud food court.
-But try us anyway:
-
-💌 human@shifti.ai
-🐦 @shifti_health
-
+> _“Don't just find a clinic. Find a plan.” — Shifti+_
