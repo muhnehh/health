@@ -54,6 +54,7 @@ Then we:
 - Work in **Arabic or English**  
 - Even support **voice input** (Web Speech API)
 ![image](https://github.com/user-attachments/assets/b8da971f-2ad8-44e8-bbe9-0b8e6ae36244)
+![image](https://github.com/user-attachments/assets/6d84729d-8668-463d-a2c5-9342ead279e8)
 
 ---
 
